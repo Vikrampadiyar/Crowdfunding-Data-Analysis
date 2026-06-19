@@ -1,2 +1,2 @@
 # Crowdfunding-Data-Analysis
-Power BI dashboard for Crowdfunding analysis with interactive visualizations.
+Power BI & SQL project analyzing crowdfunding campaigns with data transformation, DAX measures, interactive dashboards, and business insights.
